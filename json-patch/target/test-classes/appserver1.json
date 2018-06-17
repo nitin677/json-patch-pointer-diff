@@ -1,0 +1,1 @@
+{"host":"producthost2.example.com","protocols":[{"port":"9001","protocol":"http"},{"port":"9003","protocol":"https"},{"port":"9001","protocol":"t3"}]}

@@ -1,0 +1,10 @@
+[
+	 { "op": "test", "path": "/topology/appservers/1/protocols/1/port", "value": "9003" },
+     { "op": "remove", "path": "/topology/appservers/1/protocols/1" },
+     { "op": "add", "path": "/topology/appservers/1/protocols/1", "value": "{\"port\":\"9003\",\"protocol\":\"t3s\"}" },
+     { "op": "add", "path": "/topology/appservers/1/protocols/-", "value": "{\"port\":\"9003\",\"protocol\":\"https\"}" },
+     { "op": "replace", "path": "/topology/appservers/1/protocols/3/port", "value": "9004" },
+     { "op": "move", "from": "/topology/appservers/1/protocols/1", "path": "/topology/appservers/2/protocols/-" },
+     { "op": "copy", "from": "/topology/appservers/2/protocols/3", "path": "/topology/appservers/0/protocols/-" },
+  	 { "op": "test", "path": "/topology/appservers/0/protocols/3", "value": "{\"port\":\"9003\",\"protocol\":\"t3s\"}" }     
+]

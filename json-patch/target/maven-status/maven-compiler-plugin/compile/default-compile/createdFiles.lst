@@ -1,0 +1,11 @@
+com\nitin\json\patch\vo\PatchOperationType.class
+com\nitin\json\diff\JsonDiff.class
+com\nitin\json\patch\exception\JsonPatchException.class
+com\nitin\json\pointer\JsonPointer.class
+com\nitin\json\patch\exception\InvalidJsonPatchException.class
+com\nitin\json\patch\vo\PatchOperation.class
+com\nitin\json\patch\vo\PatchOperation$1.class
+com\nitin\json\patch\vo\PatchOperationType$Member.class
+com\nitin\json\patch\JsonPatch.class
+com\nitin\json\util\LoggerUtils.class
+com\nitin\json\pointer\exception\JsonPointerException.class

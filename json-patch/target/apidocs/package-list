@@ -1,0 +1,7 @@
+com.nitin.json.diff
+com.nitin.json.patch
+com.nitin.json.patch.exception
+com.nitin.json.patch.vo
+com.nitin.json.pointer
+com.nitin.json.pointer.exception
+com.nitin.json.util

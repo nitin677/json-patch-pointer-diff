@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/a/0","value":2},{"op":"add","path":"/a/2","value":3},{"op":"add","path":"/b/2","value":0}]
