@@ -1,4 +1,4 @@
-# json-patch-pointer-diff
+# JSON Pointer, Patch and Diff implementation
 
 A Library which implements the following:
 1. RFCs for JavaScript Object Notation (JSON) Pointer. (https://tools.ietf.org/html/rfc6901)
